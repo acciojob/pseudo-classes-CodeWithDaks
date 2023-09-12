@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .root{
-	background-color:rgb(135, 206, 235);
+	background-color:rgba(0,0,0,0);
 }
 #first-child{
 	background-color:black;
@@ -21,7 +21,7 @@ ul{
 	font-size:22px;
 }
 #grey{
-	background-color:grey;
+	background-color:gray;
 }
 #oran{
 	background-color:pink;
